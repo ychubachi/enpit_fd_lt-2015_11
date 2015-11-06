@@ -1,0 +1,52 @@
+#+TITLE: enPiT ビジネスアプリケーション分野 \linebreak 〜その先の未来へ〜
+#+AUTHOR: 産業技術大学院大学 \linebreak 中鉢 欣秀
+#+DATE: 2015-11-06
+#+BEAMER_THEME: Madrid
+#+OPTIONS: toc:nil
+#+OPTIONS: H:1
+#+OPTIONS: ^:nil
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+PROPERTY: BEAMER_col_ALL 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 0.0 :ETC
+# #+LaTeX_CLASS_OPTIONS: [14pt]
+
+* enPiT AIITで行われたこと
+  - アジャイル開発特論
+    - リーンスタートアップ
+    - Scrum
+  - コラボレイティブ開発特論
+    - GitHub, Travis CI, Heroku, etc.
+  - 分散PBL
+    - Scrum コース
+    - Global コース
+
+* 当初の個人的野望
+  - アジャイル開発とPBLを組み合わせた実践的な教育を大学の場で提供したい
+    - 皆様のおかげで、期待以上の成果が得られつつある
+  - 教える側のネットワーク構築
+    - 連携校 教員（一部であるが）
+    - Scrum コーチの方々
+    - FD合宿/FD飲み会
+
+* 次はどうする？？
+  - enPiTも来年度で一区切り
+    - Version 2の話はあるものの…
+  - 今回の知見をいかにして活かすか
+    - せっかくの取り組みを今後に繋げたい
+
+* 例えばこんなこと？
+  - より実ビジネス（＝お金）を意識したプロジェクト？
+  - サービスデザイン？
+  - ビジネス企画？
+  - ケーススタディ？
+  - ソフトウエア開発組織論？
+  - 経営学？
+
+* そもそもPBLとはなんぞや？
+  - PBLで本来目指すことは？
+  - その目的にかなった教育であるのか？
+
+* 今後、みなさんとやりたいこと
+  - PBLのインストラクションガイド等教育マテリアル（エコシステム）
+  - 一致団結してISECONに申し込んで見ませんか？
+  - GitHub使ってWebアプリ開発をして見ませんか？
+  - その他、なんでも
